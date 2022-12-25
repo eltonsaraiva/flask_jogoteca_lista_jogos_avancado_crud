@@ -8,6 +8,7 @@ Crie um upload de arquivos
 Valide formulários com o Flask WTF
 Deixe o projeto mais seguro com o Flask Bcrypt
 
+
 Tecnologias utilizadas durante o curso
 Python: v3.9.9
 Flask: v2.0.2
